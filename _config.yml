@@ -28,7 +28,7 @@ github_username:  jekyll
 markdown: kramdown
 plugins:
   - jekyll-feed
-host: 192.168.7.115
+# host: 192.168.7.115
 
 
 # Exclude from processing.
